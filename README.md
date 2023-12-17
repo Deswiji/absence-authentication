@@ -10,7 +10,7 @@
 
 #### 4. Install dependencies `npm install`
 
-#### 5. Run server `npm start`
+#### 5. Load environment `source .env` dan run server `npm start`
 
 #### 6. Server berhasil dirunning
 
